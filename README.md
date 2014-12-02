@@ -7,6 +7,6 @@ If you find this approach useful, you can cite the paper as
         title = {A convex analysis approach to optimal controls with switching structure for partial differential equations},
         number = {SFB-Report 2014--001},
         institution = {{SFB ``Mathematical Optimization and Applications in Biomedical Sciences''}},
-        url = {http://math.uni-graz.at/mobis/publications/SFB-Report-2014-001_1.pdf},
+        url = {http://math.uni-graz.at/mobis/publications/SFB-Report-2014-001_2.pdf},
         year = {2014}
     }
