@@ -2,11 +2,10 @@ This repository contains Matlab codes implementing the algorithm for computing s
 
 If you find this approach useful, you can cite the paper as
 
-    @techreport{switchingcontrol,
+    @article{switchingcontrol,
         author = {Christian Clason and Kazufumi Ito and Karl Kunisch},
         title = {A convex analysis approach to optimal controls with switching structure for partial differential equations},
-        number = {SFB-Report 2014--001},
-        institution = {{SFB ``Mathematical Optimization and Applications in Biomedical Sciences''}},
-        url = {http://math.uni-graz.at/mobis/publications/SFB-Report-2014-001_2.pdf},
-        year = {2014}
+        journal = {ESAIM: Control, Optimisation and Calculus of Variations},
+        note = {to appear},
+        year = {2015}
     }
