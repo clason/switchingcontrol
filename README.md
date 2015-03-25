@@ -6,6 +6,7 @@ If you find this approach useful, you can cite the paper as
         author = {Christian Clason and Kazufumi Ito and Karl Kunisch},
         title = {A convex analysis approach to optimal controls with switching structure for partial differential equations},
         journal = {ESAIM: Control, Optimisation and Calculus of Variations},
-        note = {to appear},
-        year = {2015}
+        volume = {forthcoming},
+        year = {2015},
+        doi = {10.1051/cocv/2015017}
     }
